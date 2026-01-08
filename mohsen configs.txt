@@ -1,0 +1,2 @@
+vless://afdd15fe-5184-419f-b1a1-59ca961c173b@panel-nl.fariborzisagreatdudeforsure.sbs:8443?type=tcp&encryption=none&security=reality&pbk=qom2X2rN4w8J5Wy1ykz3QvPyCm4_uK67UVmHNavouGw&fp=chrome&sni=www.google.com&sid=c02df5f490f335&spx=%2F&flow=xtls-rprx-vision#Mohsen-NL
+vless://3dc602a2-c0e9-49a0-ba2c-db871458a3db@uae.fariborzisagreatdudeforsure.sbs:7443?type=tcp&encryption=none&security=reality&pbk=_hWNeyyIIVywRGkngXxtpJFQQWJ4vcPQbXG-NWVUuGM&fp=chrome&sni=www.google.com&sid=99&spx=%2F&flow=xtls-rprx-vision#reality-Mohsen-UAE
